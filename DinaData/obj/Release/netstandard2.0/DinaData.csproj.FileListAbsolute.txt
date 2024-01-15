@@ -1,0 +1,10 @@
+C:\Users\eduardo\source\repos\DinaData\DinaData\obj\Release\netstandard2.0\DinaData.csproj.CoreCompileInputs.cache
+C:\Users\eduardo\source\repos\DinaData\DinaData\obj\Release\netstandard2.0\DinaData.AssemblyInfoInputs.cache
+C:\Users\eduardo\source\repos\DinaData\DinaData\obj\Release\netstandard2.0\DinaData.AssemblyInfo.cs
+C:\Users\eduardo\source\repos\DinaData\DinaData\obj\Release\netstandard2.0\DinaData.dll
+C:\Users\eduardo\source\repos\DinaData\DinaData\obj\Release\netstandard2.0\DinaData.pdb
+C:\Users\eduardo\source\repos\DinaData\DinaData\bin\Release\netstandard2.0\DinaData.deps.json
+C:\Users\eduardo\source\repos\DinaData\DinaData\bin\Release\netstandard2.0\DinaData.dll
+C:\Users\eduardo\source\repos\DinaData\DinaData\bin\Release\netstandard2.0\DinaData.pdb
+C:\Users\eduardo\source\repos\DinaData\DinaData\obj\Release\netstandard2.0\DinaData.csproj.AssemblyReference.cache
+C:\Users\eduardo\source\repos\DinaData\DinaData\obj\Release\netstandard2.0\DinaData.GeneratedMSBuildEditorConfig.editorconfig

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DinaData</id>
+    <version>1.0.7</version>
+    <authors>Eduardo Luis Sirgo</authors>
+    <license type="file">LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <readme>README.md</readme>
+    <description>DinaData es una utilidad de emergencia que permite crear nuevos campos en las entidades de tu proyecto dotnet de forma inmediata cuando éste ya está en explotación, sin necesidad de modificar el fuente, la base de datos o los formularios.</description>
+    <copyright>2021 UNDERSAT IT S.L.</copyright>
+    <tags>Dynamic Fields Generator DotNet</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Newtonsoft.Json" version="9.0.1" exclude="Build,Analyzers" />
+        <dependency id="System.Configuration.ConfigurationManager" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/netstandard2.0/Views/Shared/EditorTemplates/dinadata.cshtml" buildAction="Content" />
+      <files include="any/netstandard2.0/Views/Shared/DisplayTemplates/dinadata.cshtml" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\eduardo\source\repos\DinaData\DinaData\bin\Release\netstandard2.0\DinaData.dll" target="lib\netstandard2.0\DinaData.dll" />
+    <file src="C:\Users\eduardo\source\repos\DinaData\DinaData\README.md" target="\README.md" />
+    <file src="C:\Users\eduardo\source\repos\DinaData\DinaData\Views\Shared\EditorTemplates\dinadata.cshtml" target="content\Views\Shared\EditorTemplates\dinadata.cshtml" />
+    <file src="C:\Users\eduardo\source\repos\DinaData\DinaData\Views\Shared\EditorTemplates\dinadata.cshtml" target="contentFiles\any\netstandard2.0\Views\Shared\EditorTemplates\dinadata.cshtml" />
+    <file src="C:\Users\eduardo\source\repos\DinaData\DinaData\Views\Shared\DisplayTemplates\dinadata.cshtml" target="content\Views\Shared\DisplayTemplates\dinadata.cshtml" />
+    <file src="C:\Users\eduardo\source\repos\DinaData\DinaData\Views\Shared\DisplayTemplates\dinadata.cshtml" target="contentFiles\any\netstandard2.0\Views\Shared\DisplayTemplates\dinadata.cshtml" />
+    <file src="C:\Users\eduardo\source\repos\DinaData\DinaData\icon-72x72.png" target="icon-72x72.png" />
+    <file src="C:\Users\eduardo\source\repos\DinaData\DinaData\LICENSE.txt" target="LICENSE.txt" />
+  </files>
+</package>
